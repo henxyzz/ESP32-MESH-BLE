@@ -31,4 +31,4 @@ jobs:
           build/partition_table/partition-table.bin
           build/*.bin
       env:
-        GITHUB_TOKEN: ${{ secrets.GT }}
+        GITHUB_TOKEN: ${{ secrets.T }}
